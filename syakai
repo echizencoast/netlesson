@@ -1,0 +1,439 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>日本史を作った人物１</title>
+<meta name="description" content="関連する答えを線で結ぶ。">
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, maximum-scale=2">
+<meta name="format-detection" content="telephone=no">
+</head>
+<STYLE type="text/css">
+<!--
+.box {font-family:"ＭＳ ゴシック", "MS Gothic", "Osaka－等幅", Osaka-mono, monospace;
+  font-size:24px;background-color: #FFC; border:solid 3px #009 ;border-radius: 10px;
+}
+
+div.boxDAI{
+	border:solid 3px #390;border-radius: 10px;float:left;
+	}
+div.btnBOX{ font-family:"ＭＳ ゴシック", "MS Gothic", "Osaka－等幅", Osaka-mono, monospace;
+	display: inline-block;font-size:24px;color: #000;margin:5px;width:90px;height:30px;text-align: center;
+	text-decoration: none;line-height:30px;outline: none;position: relative;background-color: #6F0;
+	border-radius: 5px;
+	-webkit-transition: none;transition: none;box-shadow:2px 3px 0 #6a6;text-shadow: 0 1px 1px rgba(0, 0, 0, .3);
+}
+div.btnBOX:hover {
+	background-color:#0F6;
+	box-shadow:2px 3px 0  #0a4;
+}
+div.btnBOX:active {
+	top: 3px; left:2px;
+	box-shadow: none;
+}
+div.btnBOX2{
+	display: inline-block;font-size:18px;color: #000; margin:4px;width:190px;height:30px;text-align: center;border:solid 2px #00F;
+	text-decoration: none;line-height: 30px;outline: none;position: relative;background-color: #9FC;
+	border-radius: 5px; font-weight:700;
+	-webkit-transition: none;transition: none;box-shadow: 0 3px 0 #6a9;text-shadow: 0 1px 1px rgba(0, 0, 0, .3);float:left;
+}
+div.btnBOX2:hover {
+	background-color:#0FF;
+	box-shadow: 0 3px 0  #0aa;
+}
+div.btnBOX2:active {
+	top: 3px;
+	box-shadow: none;background-color: #FCF;
+}
+//-->
+</STYLE>
+<SCRIPT type="text/javascript">
+<!--
+var dataJ=[
+"卑弥呼/邪馬台国の女王(古墳)",
+"聖徳太子/官位１２階・１７条の憲法(飛鳥)",
+"小野妹子/遣隋使の代表(飛鳥)",
+"蘇我入鹿/大化の改新で暗殺される(飛鳥)",
+"中大兄皇子/大化の改新･後の天智天皇(飛鳥)",
+"中臣(藤原)鎌足/中大兄皇子と大化の改新(飛鳥)",
+"天武天皇/壬申の乱で天皇になる(飛鳥)",
+"藤原不比等/大宝律令を完成(名)",
+"聖武天皇/都を平城京へ移す(名)",
+"行　基/東大寺大仏の建立責任者(名)",
+"鑑　真/唐から帰化した僧･唐招提寺(名)",
+"桓武天皇/平安京に都を移す(平)",
+"坂上田村麻呂/蝦夷を征討・征夷大将軍（平）",
+"最澄/天台宗の開祖（平）",
+"空海/真言宗の開祖（平）",
+"藤原良房/藤原氏で最初の摂政（平）",
+"菅原道真/藤原氏と対立した学者政治家（平）",
+"平将門/東国で朝廷に反乱を起こした武将（平）",
+"清少納言/枕草子の作者（平）",
+"紫式部/源氏物語の作者（平）",
+"藤原道長/藤原氏の全盛期を作った摂政（平）",
+"藤原頼通/道長の長男・平等院鳳凰堂（平）",
+"後三条天皇/摂関政治から院政への道を開く（平）",
+"白河天皇(上皇)/院政を初めて行った天皇（平）",
+"源義家/東国の源氏勢力の基盤を作る(平)",
+"平清盛/保元・平治の乱で政権を握る(平)",
+"後白河天皇(上皇)/保元の乱で院政を始める(平)",
+"源義経(牛若丸)/壇ノ浦の戦いで平氏を滅ぼす(平)",
+"源頼朝/鎌倉幕府初代征夷大将軍(鎌)",
+"北条政子/源頼朝の妻,承久の乱に勝利(鎌)",
+"後鳥羽上皇/承久の乱で政権奪取失敗(鎌)",
+"北条時宗/元寇(文永･弘安の役)から国を守る(鎌)",
+"後醍醐天皇/建武の新政→吉野に南朝(南北朝時代)",
+"楠木正成/後醍醐天皇に忠誠をつくした知将(南北)",
+"新田義貞/鎌倉幕府を滅ぼした武将(南北)",
+"足利尊氏/北朝の征夷大将軍･室町幕府を開く(室町)",
+"足利義満/南北朝を統一､日明貿易(室町)",
+"足利義政/応仁の乱(跡目争い)で幕府衰退(室町)",
+"世阿弥/能の大成者(室町)",
+"雪 舟/水墨画をきわめた僧(室町)"
+]
+dn=dataJ.length;
+var Q=new Array(dn);
+var QR=new Array(10);
+var QL=new Array(10);
+var dR=new Array(10);
+var dL=new Array(10);
+var inR="no";
+var inL="no";
+var col=["#191970","#c71585","#008b8b","#800000","#556b2f","#800080","#808000","#4b0082","#b22222","#ff4500"]
+
+function settei(){
+	loadName()
+	if(namae==""){simei.innerText="名前は秘密";}else{simei.innerText=namae;}
+	namae=simei.innerText;
+	maru.style.visibility='hidden';
+	Layer30.style.visibility='hidden';
+	Layer35.style.visibility='hidden';
+	Layer40.style.visibility='hidden';
+	comento.innerText="開始ボタン\nでスタート";
+	mondaisakusei()
+}
+function kaisi(){
+	if(btn24.innerText=="---"){alert("只今問題に挑戦中");return};
+	draw();
+	btn24.innerText="---"
+	inR="yes";inL="yes";kaiNO=0;seikaiNO=0;
+	sec=0;minu=0;hour=0;TB=setInterval('count()',1000);
+	comento.innerText="挑戦中\n0/10";
+	
+	irokesiL();irokesiR();
+	mondaisakusei()	;
+	
+}
+function mondaisakusei(){
+	ransuu();ransuuL();ransuuR();
+	for(i=0;i<10;i++){
+		djj=dataJ[Q[i]];dj=djj.split("/");
+		nR=QR[i];aR=dj[0];dR[i]=nR;btnkiR();
+		nL=QL[i];aL=dj[1];dL[i]=nL;btnkiL();
+	}
+
+}
+function btnkiR(){
+	if(nR==0){btnR0.innerText=aR}
+	if(nR==1){btnR1.innerText=aR}
+	if(nR==2){btnR2.innerText=aR}
+	if(nR==3){btnR3.innerText=aR}
+	if(nR==4){btnR4.innerText=aR}
+	if(nR==5){btnR5.innerText=aR}
+	if(nR==6){btnR6.innerText=aR}
+	if(nR==7){btnR7.innerText=aR}
+	if(nR==8){btnR8.innerText=aR}
+	if(nR==9){btnR9.innerText=aR}
+}
+function btnkiL(){
+	if(nL==0){btnL0.innerText=aL}
+	if(nL==1){btnL1.innerText=aL}
+	if(nL==2){btnL2.innerText=aL}
+	if(nL==3){btnL3.innerText=aL}
+	if(nL==4){btnL4.innerText=aL}
+	if(nL==5){btnL5.innerText=aL}
+	if(nL==6){btnL6.innerText=aL}
+	if(nL==7){btnL7.innerText=aL}
+	if(nL==8){btnL8.innerText=aL}
+	if(nL==9){btnL9.innerText=aL}
+}
+function count(){
+	sec++;
+	jikan.innerText=sec+"秒";
+}
+function kotaeinR(n){
+	if(btn24.innerText=="開始"){alert("開始ボタンでスタートします");return}
+	if(inR=="no"){return;};inR="no";
+	pR=parseInt(n);kaiNO++;
+	irozukeR();
+	if(kaiNO>1){hantei();};
+}
+function kotaeinL(n){
+	if(btn24.innerText=="開始"){alert("開始ボタンでスタートします");return}
+	if(inL=="no"){return;};inL="no";
+	pL=parseInt(n);kaiNO++;
+	irozukeL();
+	if(kaiNO>1){hantei();};
+}
+function hantei(){
+	for(i=0;i<10;i++){
+		if(pL==dL[i] && pR==dR[i]){
+			draw();inR="yes";inL="yes";kaiNO=0;
+			irokesiL();irokesiR();
+			seikaiNO++;
+			comento.innerText="挑戦中\n"+seikaiNO+"/10";
+			if(seikaiNO>9){rank();}
+			return;
+		}
+	}
+	sec=sec+4;
+	alert("答が違います。");
+	kesu();
+}
+function irozukeL(){colL="#FCC";
+	if(pL==0){btnL0.style.backgroundColor=colL;}
+	if(pL==1){btnL1.style.backgroundColor=colL;}
+	if(pL==2){btnL2.style.backgroundColor=colL;}
+	if(pL==3){btnL3.style.backgroundColor=colL;}
+	if(pL==4){btnL4.style.backgroundColor=colL;}
+	if(pL==5){btnL5.style.backgroundColor=colL;}
+	if(pL==6){btnL6.style.backgroundColor=colL;}
+	if(pL==7){btnL7.style.backgroundColor=colL;}
+	if(pL==8){btnL8.style.backgroundColor=colL;}
+	if(pL==9){btnL9.style.backgroundColor=colL;}
+	
+}
+function irozukeR(){colR="#FCC";
+	if(pR==0){btnR0.style.backgroundColor=colR;}
+	if(pR==1){btnR1.style.backgroundColor=colR;}
+	if(pR==2){btnR2.style.backgroundColor=colR;}
+	if(pR==3){btnR3.style.backgroundColor=colR;}
+	if(pR==4){btnR4.style.backgroundColor=colR;}
+	if(pR==5){btnR5.style.backgroundColor=colR;}
+	if(pR==6){btnR6.style.backgroundColor=colR;}
+	if(pR==7){btnR7.style.backgroundColor=colR;}
+	if(pR==8){btnR8.style.backgroundColor=colR;}
+	if(pR==9){btnR9.style.backgroundColor=colR;}
+}
+function irokesiL(){colL="#9FC";
+	btnL0.style.backgroundColor=colL;
+	btnL1.style.backgroundColor=colL;
+	btnL2.style.backgroundColor=colL;
+	btnL3.style.backgroundColor=colL;
+	btnL4.style.backgroundColor=colL;
+	btnL5.style.backgroundColor=colL;
+	btnL6.style.backgroundColor=colL;
+	btnL7.style.backgroundColor=colL;
+	btnL8.style.backgroundColor=colL;
+	btnL9.style.backgroundColor=colL;
+}
+function irokesiR(){colR="#0FD";
+	btnR0.style.backgroundColor=colR;
+	btnR1.style.backgroundColor=colR;
+	btnR2.style.backgroundColor=colR;
+	btnR3.style.backgroundColor=colR;
+	btnR4.style.backgroundColor=colR;
+	btnR5.style.backgroundColor=colR;
+	btnR6.style.backgroundColor=colR;
+	btnR7.style.backgroundColor=colR;
+	btnR8.style.backgroundColor=colR;
+	btnR9.style.backgroundColor=colR;
+}
+function kesu(){
+	irokesiR();irokesiL();inR="yes";inL="yes";kaiNO=0;
+}
+
+
+function botankinyu(){
+	btn0.innerText=cc[0];btn1.innerText=cc[1];btn2.innerText=cc[2];
+}
+
+function ransuu(){
+	for(i=0;i<dn;i++){
+		Q[i]=i;
+	}
+	for(i=dn-1;i>=0;i--){
+		j=Math.floor(Math.random()*(i));
+		t=Q[i];Q[i]=Q[j];Q[j]=t;
+	}
+}
+function ransuuR(){
+	for(i=0;i<10;i++){
+		QR[i]=i;
+	}
+	for(i=9;i>=0;i--){
+		j=Math.floor(Math.random()*(i));
+		t=QR[i];QR[i]=QR[j];QR[j]=t;
+	}
+}
+function ransuuL(){
+	for(i=0;i<10;i++){
+		QL[i]=i;
+	}
+	for(i=9;i>=0;i--){
+		j=Math.floor(Math.random()*(i));
+		t=QL[i];QL[i]=QL[j];QL[j]=t;
+	}
+}
+function draw(){ax=0;ay=63;ap=385/9;
+	var canvas1 = document.getElementById("canvas1");
+	var ctx1 = canvas1.getContext("2d");
+	if(btn24.innerText=="---"){
+	ctx1.beginPath();
+	ctx1.moveTo(ax,15+pL*ap);
+	ctx1.lineTo(ay,15+pR*ap);
+	ctx1.strokeStyle=col[QL[seikaiNO]];
+	ctx1.lineWidth=3;
+	ctx1.stroke();
+	}
+	if(btn24.innerText=="開始"){
+		ctx1.clearRect(0, 0, 63, 410);
+	}
+}
+function rank(){
+	clearInterval(TB);
+	Layer35.style.visibility='visible';
+	maru.style.visibility='visible';
+	point=sec;
+	
+		comento="連結脳初級"
+	if(point<=190){comento="連結脳9級"}
+	if(point<=170){comento="連結脳8級"}
+	if(point<=150){comento="連結脳7級"}
+	if(point<=130){comento="連結脳6級"}
+	if(point<=110){comento="連結脳5級"}
+	if(point<=100){comento="連結脳4級"}
+	if(point<=90){comento="連結脳3級"}
+	if(point<=80){comento="連結脳2級"}
+	if(point<=70){comento="連結脳1段"}
+	if(point<=65){comento="連結脳2段"}
+	if(point<=60){comento="連結脳3段"}
+	if(point<=55){comento="連結脳4段"}
+	if(point<=50){comento="連結脳5段"}
+	if(point<=45){comento="連結脳6段"}
+	if(point<=40){comento="連結脳7段"}
+	if(point<=32){comento="連結脳8段"}
+	if(point<=28){comento="連結脳9段"}
+	if(point<=24){comento="連結脳名人"}
+	if(point<=20){comento="連結脳王"}
+	if(point<=16){comento="連結脳怪人"}
+	if(point<=13){comento="連結脳超人"}
+	if(point<=10){comento="連結脳聖人"};
+	if(point<=8){comento="連結脳神"};
+	
+	document.form1.syu.value="世界の首都";
+	document.form1.name.value=namae;
+	document.form1.taimu.value=point;
+	document.form1.come.value=comento;
+}
+//*************************
+function boxMakeL(){
+	for(i=0;i<10;i++){
+		document.write("<div class=\"btnBOX2\" id=\"btnL",i,"\" style=\" width:240px;font-size:14px;letter-spacing:0.01em  \" onClick=\"kotaeinL('",i,"')\">"+i+"</div>");
+	}
+}
+function boxMakeR(){
+	for(i=0;i<10;i++){
+		document.write("<div class=\"btnBOX2\" id=\"btnR",i,"\" style=\" width:130px;font-size:15px \" onClick=\"kotaeinR('",i,"')\">"+i+"</div>");
+	}
+}
+function makuhiki(){
+	Layer35.style.visibility='hidden';
+	btn24.innerText="開始";
+	maru.style.visibility='hidden';
+}
+
+//*******************
+function loadName(){
+	theData   = "";
+	theName   = "nettoreNAME=";
+	theCookie = document.cookie+";";
+	start = theCookie.indexOf(theName);
+	if (start != -1)
+	{
+		end = theCookie.indexOf(";",start);
+		theData = unescape(theCookie.substring(start+theName.length,end));
+	}
+	namae = theData;
+}
+
+function modoriEND(){this.close();};
+
+//-->
+</SCRIPT>
+<body  onLoad="settei()"  bgcolor="#000066" oncontextmenu="return false;">
+<div  class="box"  style="position: absolute; left:10px; top:5px; width:340px; height:50px; line-height:40px; background-color: #9FF" align="center">日本史の事象―人物</div>
+
+<div id="simei"  style="position: absolute; left:190px; top:40px; width:200px; height:200px; font-size:12px; color: #009 " align="center">
+	名無しの権兵衛
+</div>
+
+<div  class="box"  style="position: absolute; left:10px; top:65px; width:450px; height:430px; line-height:50px; z-index:20 " align="center">
+	<div  style="position: absolute; left:4px; top:5px; width:190px; height:380px" align="center">
+		<SCRIPT language="JavaScript">
+		<!--
+		boxMakeL();
+		//-->
+		</SCRIPT>
+    </div>
+    
+    <div  style="position: absolute; left:308px; top:5px; width:190px; " align="center">
+		<SCRIPT language="JavaScript">
+		<!--
+		boxMakeR();
+		//-->
+		</SCRIPT>
+	</div>
+	<div style="position:absolute; left:250px; top:10px; z-index:20">
+    	<canvas id="canvas1" width="100" height="410"></canvas>
+	</div>
+</div>
+
+<div id="maru"  style="position: absolute; left:95px; top:80px; width:200px; height:200px; font-size:260px; color:#F00; z-index:50 " align="center">
+	◎
+</div>
+
+<div  class="box" id="jikan"  style="position: absolute; left:360px; top:5px; width:100px; height:50px; line-height:50px; background-color:#FCC " align="center">
+	時間
+</div>
+
+<div  class="box"  style="position: absolute; left:10px; top:505px; width:450px; height:90px; line-height:50px; background-color:#CFC " align="center">
+    <div id="comento" style="position:absolute; left:10px; top:20px; z-index:20; color:#F09; font-size:20px; line-height:22px; width:150px"  align="center">コメント欄</div>
+    <div class="btnBOX" id="btn24"  style="position:absolute; left:340px; top:3px; z-index:20" onClick="kaisi()">開始</div>
+    <div class="btnBOX" id="btn25"  style="position:absolute; left:240px; top:3px;  z-index:20" onClick="kesu()">消す</div>
+    <div class="btnBOX" id="btn26"  style="position:absolute; left:340px; top:40px;  z-index:20" onClick="modoriEND()">戻る</div>
+</div>
+
+	<form name="form1" method="POST" action="rankingPHP/nihonnsi1.php" accept-charset="UTF-8">
+	<div id="Layer30" style="position:absolute; width:90px; height:400px; z-index:2; left: 110px; top: 65px; font-size:10px">
+		<table border="0">
+		<tr><td>問題種</td><td><input type="text" size="10" name="syu"></td></tr>
+		<tr><td>お名前</td><td><input type="text" size="10" name="name"></td></tr>
+		<tr><td>点</td><td><input type="text" size="10" name="taimu"></td></tr>
+		<tr><td>級</td><td><input type="text" size="10" name="come"></td></tr>
+		</table>
+	</div>
+	<div class="box" id="Layer35" style=" background-color: #FCF;position:absolute; z-index:30; left:10px; top:505px; ">
+		<table id="rankTBL" height="90px" width="450px">
+		<tr height="20px"><td style=" font-size:18px; color:#FF0055; " colspan="2" align="center"><br>ランキングに参加しますか？</td></tr>
+		<tr><td align="center"><input type="submit" onClick="makuhiki()" value="参加する" style=" font-size:18px; height:35px;width:120px; background-color:#FF00AA; color:#FCF"></td>
+        <td align="center"><INPUT type="button" value="参加しない"  style=" font-size:18px; height:35px;width:120px; background-color:#FF00AA; color:#FCF " onClick="makuhiki()"></td></tr>
+        </table>
+	</div>
+	</form>
+
+	<form name="form2" method="POST" action="rankingPHP/nihonnsi1.php" accept-charset="UTF-8">
+	<div id="Layer40" style="position:absolute; width:90px; height:400px; z-index:3; left:110px; top: 175px; z-index:6">
+		<table border="0" style="font-size:10px">
+		<tr><td>問題種</td><td><input type="text" size="10" name="syu" value="#$%"></td></tr>
+		<tr><td>お名前</td><td><input type="text" size="10" name="name"  value="#$%"></td></tr>
+		<tr><td>点</td><td><input type="text" size="10" name="taimu" value="#$%"></td></tr>
+		<tr><td>級</td><td><input type="text" size="10" name="come"  value="#$%"></td></tr>
+		</table>
+	</div>
+	<div id="Layer45" style="position:absolute;  z-index:20; left:260px; top:555px;">
+		<input type="submit" value="ランキング" onClick="hiraku()"  style=" font-size:15px; height:28px;width:88px; background-color:#6F0">
+	</div>
+ </form>
+
+</body>
+</html>
